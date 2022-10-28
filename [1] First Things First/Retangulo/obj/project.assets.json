@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renan Balbino\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\Agenda\\AgendaApp.csproj",
-      "projectName": "AgendaApp",
-      "projectPath": "C:\\Users\\Renan Balbino\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\Agenda\\AgendaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Renan Balbino\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj",
+      "projectName": "RetanguloApp",
+      "projectPath": "C:\\Users\\Renan Balbino\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj",
       "packagesPath": "C:\\Users\\Renan Balbino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renan Balbino\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\Agenda\\obj\\",
+      "outputPath": "C:\\Users\\Renan Balbino\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Renan Balbino\\AppData\\Roaming\\NuGet\\NuGet.Config",
