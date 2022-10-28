@@ -1,0 +1,22 @@
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\bin\Debug\net5.0-windows\[1] Abastecimento.exe
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\bin\Debug\net5.0-windows\[1] Abastecimento.deps.json
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\bin\Debug\net5.0-windows\[1] Abastecimento.runtimeconfig.json
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\bin\Debug\net5.0-windows\[1] Abastecimento.runtimeconfig.dev.json
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\bin\Debug\net5.0-windows\[1] Abastecimento.dll
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\bin\Debug\net5.0-windows\ref\[1] Abastecimento.dll
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\bin\Debug\net5.0-windows\[1] Abastecimento.pdb
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.csproj.AssemblyReference.cache
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento_MarkupCompile.cache
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento_MarkupCompile.lref
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.g.resources
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.AssemblyInfoInputs.cache
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.AssemblyInfo.cs
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.csproj.CoreCompileInputs.cache
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.dll
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\ref\[1] Abastecimento.dll
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.pdb
+C:\Users\Renan Balbino\source\repos\balbii\PEOO_VS\[1] First Things First\[1] Abastecimento\obj\Debug\net5.0-windows\[1] Abastecimento.genruntimeconfig.cache
