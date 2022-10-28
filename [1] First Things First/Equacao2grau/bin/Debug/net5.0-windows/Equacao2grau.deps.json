@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Equacao2grau/1.0.0": {
+        "runtime": {
+          "Equacao2grau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Equacao2grau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
