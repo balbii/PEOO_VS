@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renan Balbino\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj": {}
+    "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renan Balbino\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj": {
+    "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renan Balbino\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj",
+        "projectUniqueName": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj",
         "projectName": "RetanguloApp",
-        "projectPath": "C:\\Users\\Renan Balbino\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj",
-        "packagesPath": "C:\\Users\\Renan Balbino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renan Balbino\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\obj\\",
+        "projectPath": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\RetanguloApp.csproj",
+        "packagesPath": "C:\\Users\\20211011110030\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\Retangulo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Renan Balbino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\20211011110030\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

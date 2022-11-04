@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Renan Balbino\\.nuget\\packages\\": {}
+    "C:\\Users\\20211011110030\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renan Balbino\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj",
+      "projectUniqueName": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj",
       "projectName": "[1] Abastecimento",
-      "projectPath": "C:\\Users\\Renan Balbino\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj",
-      "packagesPath": "C:\\Users\\Renan Balbino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renan Balbino\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\obj\\",
+      "projectPath": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj",
+      "packagesPath": "C:\\Users\\20211011110030\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Renan Balbino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\20211011110030\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

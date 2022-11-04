@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetanguloApp", "Retangulo\R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equacao2grau", "Equacao2grau\Equacao2grau.csproj", "{D714AD40-7850-4FC1-8586-CB0AECE2EAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[1] Abastecimento", "[1] Abastecimento\[1] Abastecimento.csproj", "{0F5D9D71-4275-454B-B722-1382C91164F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[1] Abastecimento", "[1] Abastecimento\[1] Abastecimento.csproj", "{0F5D9D71-4275-454B-B722-1382C91164F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingoApp", "BingoApp\BingoApp.csproj", "{B36E9D50-A899-40C8-903C-9C83D5E36379}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0F5D9D71-4275-454B-B722-1382C91164F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F5D9D71-4275-454B-B722-1382C91164F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F5D9D71-4275-454B-B722-1382C91164F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36E9D50-A899-40C8-903C-9C83D5E36379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36E9D50-A899-40C8-903C-9C83D5E36379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36E9D50-A899-40C8-903C-9C83D5E36379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36E9D50-A899-40C8-903C-9C83D5E36379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
