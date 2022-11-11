@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj": {}
+    "C:\\Users\\20211011110030\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj": {
+    "C:\\Users\\20211011110030\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj",
+        "projectUniqueName": "C:\\Users\\20211011110030\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj",
         "projectName": "[1] Abastecimento",
-        "projectPath": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj",
+        "projectPath": "C:\\Users\\20211011110030\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\[1] Abastecimento.csproj",
         "packagesPath": "C:\\Users\\20211011110030\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20211011110030\\source\\repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\obj\\",
+        "outputPath": "C:\\Users\\20211011110030\\Source\\Repos\\balbii\\PEOO_VS\\[1] First Things First\\[1] Abastecimento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20211011110030\\AppData\\Roaming\\NuGet\\NuGet.Config",

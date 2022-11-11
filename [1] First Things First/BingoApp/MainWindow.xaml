@@ -27,13 +27,13 @@
                 </Grid.ColumnDefinitions>
                 <TextBox x:Name="txtNumBolas" Text="50" Grid.Column="1" VerticalContentAlignment="Center"/>
                 <Slider x:Name="slider"  VerticalAlignment="Center" Minimum="10" Maximum="100" Value="50" TickFrequency="1" IsSnapToTickEnabled="True" ValueChanged="slider_ValueChanged"/>
-                <Button Content="Iniciar" Grid.Column="2" Margin="4"/>
+                <Button Name="btnIniciar" Content="Iniciar" Grid.Column="2" Margin="4" Click="Button_Click"/>
             </Grid>
         </GroupBox>
-        <Button Content="Sortear" Grid.Row="1" Margin="4"/>
-        <TextBox Text="35" Grid.Row="1" Grid.Column="1" Margin="4" FontSize="62" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button Name="btnSortear" Content="Sortear" Grid.Row="1" Margin="4" IsEnabled="False" Click="btnSortear_Click"/>
+        <TextBox Name="txtNum" Text="35" Grid.Row="1" Grid.Column="1" Margin="4" FontSize="62" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
         <GroupBox Header="Sorteados" Grid.Row="2" Margin="4" Grid.ColumnSpan="2">
-            <TextBox Text="1 - 2 - 3 - 4"/>
+            <TextBox Name="txtSorteio" Text="1 - 2 - 3 - 4"/>
         </GroupBox>
     </Grid>
 </Window>

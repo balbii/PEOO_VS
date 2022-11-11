@@ -10,8 +10,6 @@ C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\Bingo
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\App.g.cs
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp_MarkupCompile.cache
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp_MarkupCompile.lref
-C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\MainWindow.baml
-C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp.g.resources
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp.AssemblyInfoInputs.cache
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp.AssemblyInfo.cs
@@ -20,3 +18,5 @@ C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\Bingo
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\ref\BingoApp.dll
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp.pdb
 C:\Users\20211011110030\source\repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp.genruntimeconfig.cache
+C:\Users\20211011110030\Source\Repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\20211011110030\Source\Repos\balbii\PEOO_VS\[1] First Things First\BingoApp\obj\Debug\net5.0-windows\BingoApp.g.resources

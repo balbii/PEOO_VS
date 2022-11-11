@@ -20,6 +20,7 @@ namespace BingoApp
     /// </summary>
     public partial class MainWindow : Window
     {
+        private Class1 b;
         public MainWindow()
         {
             InitializeComponent();
@@ -28,6 +29,37 @@ namespace BingoApp
         private void slider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             txtNumBolas.Text = slider.Value.ToString();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            b = new Class1();
+            b.Iniciar(int.Parse(txtNumBolas.Text));
+            btnIniciar.IsEnabled = false;
+            btnSortear.IsEnabled = true;
+            txtSorteio.Clear();
+            txtNum.Clear();
+        }
+
+        private void btnSortear_Click(object sender, RoutedEventArgs e)
+        {
+            int x = b.Proximo();
+            if (x == -1)
+            {
+                txtNum.Text = "Fim";
+                btnIniciar.IsEnabled = true;
+                btnSortear.IsEnabled = false;
+            }
+            else
+            {
+                txtNum.Text = x.ToString();
+                string s = "";
+                foreach (int i in b.Sorteados())
+                {
+                    s += i + "-";
+                }
+                txtSorteio.Text = s;
+            }
         }
     }
 }
