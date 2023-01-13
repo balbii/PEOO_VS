@@ -23,5 +23,15 @@ namespace SUAPP
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Turma t = new Turma { };
+            t.Id = int.Parse(txtId.Text);
+            t.Curso = txtCurso.Text;
+            t.Descricao = txtTurma.Text;
+            t.AnoLetivo = int.Parse(txtAnoLetivo.Text);
+
+        }
     }
 }
